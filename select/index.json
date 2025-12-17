@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "MVSK",
+  "base_artist": "Kep1er",
+  "createdAt": "2025-12-17T13:40:47.062732Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MVSK",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/01_MVSK_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MVSK (Remix)",
+      "artist": "Brave Girls",
+      "has_synced": true,
+      "path": "select/02_MVSK_(Remix)_Brave_Girls.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MVSK (Japanese ver.)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/03_MVSK_(Japanese_ver.)_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MVSK (Japanese ver.)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/04_MVSK_(Japanese_ver.)_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MVSK (Japanese version)",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/05_MVSK_(Japanese_version)_Kep1er.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MVSK (Remix)",
+      "artist": "브레이브걸스 (Brave Girls)",
+      "has_synced": true,
+      "path": "select/06_MVSK_(Remix)_브레이브걸스_(Brave_Girls).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MVSK (Remix)",
+      "artist": "Brave Girls",
+      "has_synced": true,
+      "path": "select/07_MVSK_(Remix)_Brave_Girls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MVSK (Japanese version)",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/08_MVSK_(Japanese_version)_Kep1er.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MVSK",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_MVSK_Kep1er.txt"
+    }
+  ]
+}
